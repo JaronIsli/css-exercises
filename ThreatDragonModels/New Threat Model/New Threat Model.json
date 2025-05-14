@@ -16,7 +16,8 @@
         "placeholder": "Neue STRIDE Diagramm Beschreibung",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.4.1",
-        "cells": []
+        "cells": [],
+        "description": "[Studierende] ──> (Login-Verarbeitung) ──> [Webserver]                  └─> (Buchsuche) ──> [Webserver] ──> [Datenbankserver]  [Personal] ──> (Login) ──> (Buchanforderung) ──> [Webserver] ──> [Datenbankserver]  [Bibliotheksmitarbeiter*innen] ──> (Login) ──> (Buch hinzufügen) ──> [Webserver] ──> [Datenbankserver]"
       }
     ],
     "diagramTop": 1,
